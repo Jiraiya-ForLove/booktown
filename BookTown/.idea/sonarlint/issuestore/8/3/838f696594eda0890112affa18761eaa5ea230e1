@@ -1,0 +1,28 @@
+
+_
+java:S1192-"IDefine a constant instead of duplicating this literal "errorMsg" 3 times.(«³™¿
+\
+java:S1192C"FDefine a constant instead of duplicating this literal "email" 3 times.(×Áâ¹
+d
+java:S1192$"IDefine a constant instead of duplicating this literal "username" 5 times.(éœë¾øÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í†Æçþÿÿÿÿ
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(³æ£õùÿÿÿÿ
+W
+java:S1854%"<Remove this useless assignment to local variable "password".(…ˆíÝþÿÿÿÿ
+H
+java:S1481%"-Remove this unused "password" local variable.(…ˆíÝþÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(…úëËþÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(À‘ä
+W
+java:S1854B"<Remove this useless assignment to local variable "password".(…ˆíÝþÿÿÿÿ
+H
+java:S1481B"-Remove this unused "password" local variable.(…ˆíÝþÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(­÷îˆ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(Ï€¢è
+^
+java:S1128"CRemove this unused import 'org.apache.commons.beanutils.BeanUtils'.(êŸ±öþÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÖŽ³„

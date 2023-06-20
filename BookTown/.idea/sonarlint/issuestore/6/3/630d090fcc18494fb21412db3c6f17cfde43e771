@@ -1,0 +1,12 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ğ°è ûÿÿÿÿ8†°ôÚÿ0
+R
+java:S1854"5Remove this useless assignment to local variable "i".(–ûãÙ8ˆ°ôÚÿ0
+C
+java:S1481"&Remove this unused "i" local variable.(–ûãÙ8‰°ôÚÿ0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(äüÃâ8‰°ôÚÿ0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(äüÃâ8‰°ôÚÿ0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(œ‚“–8Š°ôÚÿ0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¸ÿÌÍ8Ù”õÚÿ0
+O
+java:S1128"-Remove this unused import 'org.junit.Assert'.(›ëš‡úÿÿÿÿ8Š°ôÚÿ0

@@ -1,0 +1,16 @@
+
+~
+java:S11925"aDefine a constant instead of duplicating this literal "/manager/bookServlet?action=list" 3 times.(º”ÕÝ8÷ìƒÕÿ0
+r	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ¿©ûÿÿÿÿ8øìƒÕÿ0
+™
+java:S1130/"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(‘™šóüÿÿÿÿ8‡íƒÕÿ0
+”
+java:S1130?"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(÷ßÔ¼8ˆíƒÕÿ0
+”
+java:S1130_"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(àÉºö8‹íƒÕÿ0
+]
+java:S1128";Remove this unused import 'com.sun.deploy.net.HttpRequest'.(àÒú¼úÿÿÿÿ8Ê÷¨ûÿ0
+^
+java:S1128	"<Remove this unused import 'com.sun.deploy.net.HttpResponse'.(¼Ý²çûÿÿÿÿ8Ê÷¨ûÿ0
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¤‹¿‡ÿÿÿÿÿ8ŒíƒÕÿ0
